@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFacebook.PresentationLayer", "ProjectFacebook.PresentationLayer\ProjectFacebook.PresentationLayer.csproj", "{3EABACA3-BE46-426F-BE93-AAA429B9A7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFacebook.DomainLayer", "ProjectFacebook.DomainLayer\ProjectFacebook.DomainLayer.csproj", "{B18CEC73-D62A-4990-A313-A7A09B443823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EABACA3-BE46-426F-BE93-AAA429B9A7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EABACA3-BE46-426F-BE93-AAA429B9A7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EABACA3-BE46-426F-BE93-AAA429B9A7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EABACA3-BE46-426F-BE93-AAA429B9A7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18CEC73-D62A-4990-A313-A7A09B443823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18CEC73-D62A-4990-A313-A7A09B443823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18CEC73-D62A-4990-A313-A7A09B443823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18CEC73-D62A-4990-A313-A7A09B443823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6C82B9-6E3B-4DF7-94AF-0AD135C3C2AB}
+	EndGlobalSection
+EndGlobal
